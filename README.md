@@ -134,5 +134,3 @@ URL: `[paste YouTube/Vimeo link here]`
 ---
 
 ## License
-
-MIT — see `LICENSE` (add before submission).

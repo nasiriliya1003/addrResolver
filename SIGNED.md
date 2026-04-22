@@ -1,6 +1,6 @@
 # Honor Code — SIGNED.md
 
-**Candidate full name**: [YOUR FULL NAME HERE]  
+**Candidate full name**: [Nasiru Iliya]  
 **Date**: 2026-04-22  
 **Challenge ID**: T1.2 · Informal Address Resolver
 
