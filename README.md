@@ -72,9 +72,9 @@ Expected output (abbreviated):
   "lat": -1.9452...,
   "lon": 30.0611...,
   "confidence": 0.8875,
-  "matched_landmark": "Pharmacie Centrale Kigali",
-  "landmark_id": "lm_005",
-  "rationale": "Matched 'Pharmacie Centrale Kigali' via surface '...' ...",
+  "matched_landmark": "...",
+  "landmark_id": "lm_00..",
+  "rationale": "... '...' ...",
   "escalate": false,
   "latency_ms": 1.4
 }
@@ -129,7 +129,7 @@ Raw text
 
 ## 4-minute video
 
-URL: `[paste YouTube/Vimeo link here]`
+URL: `[I dont have demo for now, but the resolver can be tested as outline in step]`
 
 ---
 
