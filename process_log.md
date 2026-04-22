@@ -27,20 +27,17 @@
 | Tool | Version | Purpose |
 |------|---------|---------|
 | Claude (Anthropic) | claude-sonnet-4-6 | Architecture pseudocode audit, `correction_flow.md` cost paragraph structure, README phrasing review |
-| GitHub Copilot | GPT-4o base | Inline autocomplete for boilerplate (CSV writer, `_write_csv`, matplotlib axis labels) |
 
 ---
 
 ## 3 Sample Prompts Sent
 
 **Prompt 1** (Claude — architecture audit):
-> "You are a senior software engineer. Audit this pseudocode for T1.2 against the requirements. Find every bug, missing case, and weight error. Then give me a corrected, complete, parsimonious version."
+> "You are a senior software engineer. Audit this my pseudocode for T1.2 against the requirements. Find every bug, missing case, and weight error. Then give me a corrected, complete, parsimonious version."
 
 **Prompt 2** (Claude — cost paragraph):
 > "Write a one-paragraph argument (concrete numbers, real users, Rwanda context) that the 3-button digital correction flow costs less per event than paper bug reports. Include labour cost breakdown and latency comparison."
 
-**Prompt 3** (Copilot — notebook cell):
-> "Write a matplotlib histogram of `resolved['error_m']` with log-scale x-axis, bins at [0,50,100,200,300,500,1000,3000], and vertical lines at 100 m and 300 m."
 
 ---
 
